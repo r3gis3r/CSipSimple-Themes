@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item name="btn_bar_divider" type="drawable">@android:color/transparent</item>
+    <item name="dialpad_background" type="drawable">@android:color/black</item>
+    <item name="dialer_callbar_background" type="drawable">@android:color/black</item>
+    <item name="tab_divider" type="drawable">@android:color/transparent</item>
+
+</resources>

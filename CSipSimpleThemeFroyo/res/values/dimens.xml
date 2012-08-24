@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dialpad_btn_margin">6dip</dimen>
+    <dimen name="bottom_bar_margin">4dip</dimen>
+
+    <!-- Dialpad button -->
+    <dimen name="dialpad_btn_margin_top">@dimen/dialpad_btn_margin</dimen>
+    <dimen name="dialpad_btn_margin_bottom">@dimen/dialpad_btn_margin</dimen>
+    <dimen name="dialpad_btn_margin_right">@dimen/dialpad_btn_margin</dimen>
+    <dimen name="dialpad_btn_margin_left">@dimen/dialpad_btn_margin</dimen>
+
+    <!-- Delete button -->
+    <item name="btn_dial_delete_margin_top" type="dimen">@dimen/bottom_bar_margin</item>
+    <item name="btn_dial_delete_margin_bottom" type="dimen">@dimen/bottom_bar_margin</item>
+    <item name="btn_dial_delete_margin_right" type="dimen">@dimen/dialpad_btn_margin</item>
+
+    <dimen name="btn_dial_delete_margin_left">0dip</dimen>
+
+    <!-- Action button -->
+    <item name="btn_dial_action_margin_top" type="dimen">@dimen/bottom_bar_margin</item>
+    <item name="btn_dial_action_margin_bottom" type="dimen">@dimen/bottom_bar_margin</item>
+
+    <dimen name="btn_dial_action_margin_right">0dip</dimen>
+    <dimen name="btn_dial_action_margin_left">0dip</dimen>
+
+    <!-- Additional action button -->
+    <item name="btn_dial_add_margin_top" type="dimen">@dimen/bottom_bar_margin</item>
+    <item name="btn_dial_add_margin_bottom" type="dimen">@dimen/bottom_bar_margin</item>
+
+    <dimen name="btn_dial_add_margin_right">0dip</dimen>
+
+    <item name="btn_dial_add_margin_left" type="dimen">@dimen/dialpad_btn_margin</item>
+
+    <!-- Divider -->
+    <dimen name="btn_dial_divider_width">0dip</dimen>
+    <dimen name="tab_divider_padding">0dip</dimen>
+
+</resources>
